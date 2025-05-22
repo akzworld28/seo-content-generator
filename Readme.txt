@@ -27,8 +27,8 @@ Welcome to the AI-Powered SEO Blog Generator! This project automates the process
 ### Setup
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/akzworld28.git
+   cd seo-content-generator
    ```
 2. Install dependencies:
    ```sh
@@ -51,8 +51,6 @@ Welcome to the AI-Powered SEO Blog Generator! This project automates the process
 ## Contributions
 Feel free to contribute to this project by submitting pull requests or reporting issues.
 
-## License
-This project is open-source and available under the MIT License.
 
 ---
-🚀 Created by Reshma
+🚀 Created by Arunkumar S
